@@ -1,0 +1,92 @@
+1. when new user comes set role as passenger by default
+
+CREATE DEFINER=`root`@`localhost` TRIGGER `after_user_insert` AFTER INSERT ON `user` FOR EACH ROW BEGIN
+    -- Insert a new row into USERRole table
+    INSERT INTO USERRole (URID, RID, UID)
+    VALUES (NULL, "passenger", NEW.UID); 
+END
+
+
+2. when data inserted in ride table for particular DriverId it trigger chek driver status if verified then ride is active or if not verified then ride not verified so not going to list in search
+
+2.1 on insert
+ 
+CREATE DEFINER=`root`@`localhost` TRIGGER `before_ride_insert_status` BEFORE INSERT ON `ride` FOR EACH ROW BEGIN
+    DECLARE driver_status VARCHAR(15);
+
+    -- Get the status of the driver based on the DriverID
+    SELECT `status` INTO driver_status
+    FROM `driver`
+    WHERE `DriverID` = NEW.`DriverID`;
+
+    -- Set the ride status based on the driver's status
+    IF driver_status = 'notverified' THEN
+        SET NEW.`status` = 'notverified';
+    ELSEIF driver_status = 'verified' THEN
+        SET NEW.`status` = 'active';
+    END IF;
+END
+
+2.2 on update
+
+CREATE DEFINER=`root`@`localhost` TRIGGER `before_ride_update_status` BEFORE UPDATE ON `ride` FOR EACH ROW BEGIN
+    DECLARE driver_status VARCHAR(15);
+
+    -- Get the status of the driver based on the DriverID
+    SELECT `status` INTO driver_status
+    FROM `driver`
+    WHERE `DriverID` = NEW.`DriverID`;
+
+    -- Set the ride status based on the driver's status
+    IF driver_status = 'notverified' THEN
+        SET NEW.`status` = 'notverified';
+    ELSEIF driver_status = 'verified' THEN
+        SET NEW.`status` = 'active';
+    END IF;
+END
+
+3. trigger for calculating age of driver
+
+CREATE DEFINER=`root`@`localhost` TRIGGER `before_driver_insert` BEFORE INSERT ON `driver` FOR EACH ROW BEGIN
+    DECLARE user_dob DATE;
+
+    -- Get DOB from the User table based on the URID foreign key
+    SELECT DOB INTO user_dob
+    FROM User AS u
+    JOIN USERRole AS ur ON u.UID = ur.UID
+    WHERE ur.URID = NEW.URID;
+
+    -- Calculate Age
+    SET NEW.Age = FLOOR(DATEDIFF(CURDATE(), user_dob) / 365.25);
+END
+
+4. when data inserted in driver table status should be by default "notverifid" admin can modify latter
+
+CREATE DEFINER=`root`@`localhost` TRIGGER `before_driver_insert_dl` BEFORE INSERT ON `driver` FOR EACH ROW BEGIN
+    -- Automatically set status to "notverified"
+    SET NEW.status = 'notverified';
+END
+
+
+4.1 when driver updates profile and DL then status changed to "notverified"
+
+CREATE DEFINER=`root`@`localhost` TRIGGER `before_driver_update_dl` BEFORE UPDATE ON `driver` FOR EACH ROW BEGIN
+    -- If DrivingLicence is updated, reset status to "notverified"
+    IF NEW.DrivingLicence != OLD.DrivingLicence THEN
+        SET NEW.status = 'notverified';
+    END IF;
+END
+
+5 when driver is verified by admin then if published a ride then ride status should be "active"
+
+CREATE DEFINER=`root`@`localhost` TRIGGER `after_driver_update_status` AFTER UPDATE ON `driver` FOR EACH ROW BEGIN
+    -- Check if the status has changed to 'verified'
+    IF NEW.status = 'verified' THEN
+        -- Update the status of all rides published by this driver
+        UPDATE `ride`
+        SET `status` = 'active'
+        WHERE `DriverID` = NEW.DriverID;
+    END IF;
+END
+
+

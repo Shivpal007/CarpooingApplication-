@@ -1,0 +1,196 @@
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\appsettings.Development.json
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\appsettings.json
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Carpooling.staticwebassets.endpoints.json
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Carpooling.exe
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Carpooling.deps.json
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Carpooling.runtimeconfig.json
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Carpooling.dll
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Carpooling.pdb
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Humanizer.dll
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\MySqlConnector.dll
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\System.Collections.Immutable.dll
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\Carpooling.csproj.AssemblyReference.cache
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\Carpooling.GeneratedMSBuildEditorConfig.editorconfig
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\Carpooling.AssemblyInfoInputs.cache
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\Carpooling.AssemblyInfo.cs
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\Carpooling.csproj.CoreCompileInputs.cache
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\Carpooling.MvcApplicationPartsAssemblyInfo.cs
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\Carpooling.MvcApplicationPartsAssemblyInfo.cache
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\Carpooling.sourcelink.json
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\scopedcss\bundle\Carpooling.styles.css
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\staticwebassets.build.json
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\staticwebassets.development.json
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\staticwebassets\msbuild.Carpooling.Microsoft.AspNetCore.StaticWebAssets.props
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\staticwebassets\msbuild.Carpooling.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\staticwebassets\msbuild.build.Carpooling.props
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Carpooling.props
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Carpooling.props
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\staticwebassets.pack.json
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\Carpooling.csproj.Up2Date
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\Carpooling.dll
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\refint\Carpooling.dll
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\Carpooling.pdb
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\Carpooling.genruntimeconfig.cache
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\ref\Carpooling.dll
+C:\Users\omkar\OneDrive\Documents\GitHub\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\omkar\OneDrive\Documents\GitHub\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\appsettings.json
+C:\Users\omkar\OneDrive\Documents\GitHub\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Carpooling.exe
+C:\Users\omkar\OneDrive\Documents\GitHub\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Carpooling.deps.json
+C:\Users\omkar\OneDrive\Documents\GitHub\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Carpooling.runtimeconfig.json
+C:\Users\omkar\OneDrive\Documents\GitHub\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Carpooling.dll
+C:\Users\omkar\OneDrive\Documents\GitHub\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Carpooling.pdb
+C:\Users\omkar\OneDrive\Documents\GitHub\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Humanizer.dll
+C:\Users\omkar\OneDrive\Documents\GitHub\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\omkar\OneDrive\Documents\GitHub\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\omkar\OneDrive\Documents\GitHub\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\omkar\OneDrive\Documents\GitHub\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\omkar\OneDrive\Documents\GitHub\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\omkar\OneDrive\Documents\GitHub\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\omkar\OneDrive\Documents\GitHub\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\omkar\OneDrive\Documents\GitHub\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\omkar\OneDrive\Documents\GitHub\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\omkar\OneDrive\Documents\GitHub\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\omkar\OneDrive\Documents\GitHub\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\omkar\OneDrive\Documents\GitHub\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\omkar\OneDrive\Documents\GitHub\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\omkar\OneDrive\Documents\GitHub\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\omkar\OneDrive\Documents\GitHub\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\omkar\OneDrive\Documents\GitHub\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\omkar\OneDrive\Documents\GitHub\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\omkar\OneDrive\Documents\GitHub\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\omkar\OneDrive\Documents\GitHub\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\System.Collections.Immutable.dll
+C:\Users\omkar\OneDrive\Documents\GitHub\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\omkar\OneDrive\Documents\GitHub\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\Carpooling.csproj.AssemblyReference.cache
+C:\Users\omkar\OneDrive\Documents\GitHub\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\Carpooling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omkar\OneDrive\Documents\GitHub\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\Carpooling.AssemblyInfoInputs.cache
+C:\Users\omkar\OneDrive\Documents\GitHub\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\Carpooling.AssemblyInfo.cs
+C:\Users\omkar\OneDrive\Documents\GitHub\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\Carpooling.csproj.CoreCompileInputs.cache
+C:\Users\omkar\OneDrive\Documents\GitHub\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\Carpooling.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\omkar\OneDrive\Documents\GitHub\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\Carpooling.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\omkar\OneDrive\Documents\GitHub\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\Carpooling.sourcelink.json
+C:\Users\omkar\OneDrive\Documents\GitHub\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\omkar\OneDrive\Documents\GitHub\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\omkar\OneDrive\Documents\GitHub\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\staticwebassets\msbuild.Carpooling.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\omkar\OneDrive\Documents\GitHub\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\staticwebassets\msbuild.build.Carpooling.props
+C:\Users\omkar\OneDrive\Documents\GitHub\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Carpooling.props
+C:\Users\omkar\OneDrive\Documents\GitHub\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Carpooling.props
+C:\Users\omkar\OneDrive\Documents\GitHub\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\omkar\OneDrive\Documents\GitHub\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\scopedcss\bundle\Carpooling.styles.css
+C:\Users\omkar\OneDrive\Documents\GitHub\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\Carpooling.csproj.Up2Date
+C:\Users\omkar\OneDrive\Documents\GitHub\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\Carpooling.dll
+C:\Users\omkar\OneDrive\Documents\GitHub\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\refint\Carpooling.dll
+C:\Users\omkar\OneDrive\Documents\GitHub\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\Carpooling.pdb
+C:\Users\omkar\OneDrive\Documents\GitHub\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\Carpooling.genruntimeconfig.cache
+C:\Users\omkar\OneDrive\Documents\GitHub\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\ref\Carpooling.dll
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\MailKit.dll
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\MimeKit.dll
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\System.Formats.Asn1.dll
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Steeltoe.Common.dll
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Steeltoe.Common.Abstractions.dll
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Steeltoe.Common.Http.dll
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Steeltoe.Connector.Abstractions.dll
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Steeltoe.Connector.ConnectorBase.dll
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Steeltoe.Discovery.Abstractions.dll
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Steeltoe.Discovery.ClientBase.dll
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Steeltoe.Discovery.ClientCore.dll
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Steeltoe.Discovery.Eureka.dll
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Steeltoe.Extensions.Configuration.Abstractions.dll
+E:\CDAC\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\appsettings.Development.json
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\appsettings.json
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Carpooling.staticwebassets.endpoints.json
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Carpooling.exe
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Carpooling.deps.json
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Carpooling.runtimeconfig.json
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Carpooling.dll
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Carpooling.pdb
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Humanizer.dll
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\MailKit.dll
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\MimeKit.dll
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\MySqlConnector.dll
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Steeltoe.Common.dll
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Steeltoe.Common.Abstractions.dll
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Steeltoe.Common.Http.dll
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Steeltoe.Connector.Abstractions.dll
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Steeltoe.Connector.ConnectorBase.dll
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Steeltoe.Discovery.Abstractions.dll
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Steeltoe.Discovery.ClientBase.dll
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Steeltoe.Discovery.ClientCore.dll
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Steeltoe.Discovery.Eureka.dll
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Steeltoe.Extensions.Configuration.Abstractions.dll
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\System.Collections.Immutable.dll
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\System.Formats.Asn1.dll
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\Carpooling.csproj.AssemblyReference.cache
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\Carpooling.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\Carpooling.AssemblyInfoInputs.cache
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\Carpooling.AssemblyInfo.cs
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\Carpooling.csproj.CoreCompileInputs.cache
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\Carpooling.MvcApplicationPartsAssemblyInfo.cs
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\Carpooling.MvcApplicationPartsAssemblyInfo.cache
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\Carpooling.sourcelink.json
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\scopedcss\bundle\Carpooling.styles.css
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\staticwebassets.build.json
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\staticwebassets.development.json
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\staticwebassets\msbuild.Carpooling.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\staticwebassets\msbuild.Carpooling.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\staticwebassets\msbuild.build.Carpooling.props
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Carpooling.props
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Carpooling.props
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\staticwebassets.pack.json
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\Carpooling.csproj.Up2Date
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\Carpooling.dll
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\refint\Carpooling.dll
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\Carpooling.pdb
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\Carpooling.genruntimeconfig.cache
+D:\CDAC know-it\Project_Carpool\CarPooling\BackEnd\Carpooling.Net\Carpooling\obj\Debug\net6.0\ref\Carpooling.dll

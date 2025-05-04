@@ -1,0 +1,26 @@
+.container {
+    margin-top: 20px;
+  }
+  
+  .table {
+    width: 100%; 
+    border-collapse: collapse; 
+  }
+  
+  th, td {
+    border: 1px solid #efdfdf;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #000000; 
+  }
+  
+  tr:nth-child(even) { 
+    background-color: #f2f2f2; 
+  }
+  .align-right td {
+    text-align: center;
+  }
+  

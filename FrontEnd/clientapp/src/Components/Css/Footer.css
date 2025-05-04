@@ -1,0 +1,32 @@
+/* Footer Enhancements with Better Contrast */
+footer {
+    font-family: Arial, sans-serif;
+  }
+  
+  footer h4,
+  footer h5 {
+    font-weight: bold;
+    color: #f8f8f8;
+  }
+  
+  footer a {
+    text-decoration: none;
+  }
+  
+  footer a.hover-link:hover {
+    text-decoration: underline;
+    color: #bab5ff; /* Slightly lighter color on hover */
+  }
+  
+  footer .social-links a {
+    transition: color 0.3s ease;
+  }
+  
+  footer .social-links a:hover {
+    color: #b5d0ff; /* Light color for hover effect */
+  }
+  
+  footer hr {
+    margin: 2rem 0;
+  }
+  

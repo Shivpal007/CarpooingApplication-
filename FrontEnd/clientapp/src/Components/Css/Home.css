@@ -1,0 +1,141 @@
+/* Container Styling */
+.home-container {
+    padding-top: 2px;
+    min-height: 60vh;
+    background-color: #D4EBF8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 150px;
+  }
+  
+  /* Content Row */
+  .content-row {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    max-width: 1200px;
+  }
+  
+  /* GIF Section */
+  .gif-section {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .gif-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 15px;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Button Container */
+  .button-container {
+    background-color: white;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .title {
+    color: #3468C0;
+    font-weight: bold;
+    margin-bottom: 20px;
+    font-size: 1.8rem;
+  }
+  
+  .button-group {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+
+  .custom-btn {
+    background: linear-gradient(90deg, #3468C0, #86A7FC);
+    border: none;
+    padding: 15px 25px;
+    border-radius: 30px;
+    color: white;
+    font-size: 1.2rem;
+    font-weight: bold;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .custom-btn:hover {
+    transform: scale(1.1);
+    box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.3);
+  }
+  
+  .custom-link {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .custom-link:hover {
+    text-decoration: underline;
+  }
+  
+  /* Animations */
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  
+  @keyframes slideLeft {
+    from {
+      transform: translateX(-100%);
+      opacity: 0;
+    }
+    to {
+      transform: translateX(0);
+      opacity: 1;
+    }
+  }
+  
+  @keyframes slideRight {
+    from {
+      transform: translateX(100%);
+      opacity: 0;
+    }
+    to {
+      transform: translateX(0);
+      opacity: 1;
+    }
+  }
+  
+  @keyframes zoomIn {
+    from {
+      transform: scale(0.8);
+      opacity: 0;
+    }
+    to {
+      transform: scale(1);
+      opacity: 1;
+    }
+  }
+  
+  .animate-fade-in {
+    animation: fadeIn 1s ease-in-out;
+  }
+  
+  .animate-slide-left {
+    animation: slideLeft 1s ease-in-out;
+  }
+  
+  .animate-slide-right {
+    animation: slideRight 1s ease-in-out;
+  }
+  
+  .animate-zoom-in {
+    animation: zoomIn 1s ease-in-out;
+  }
+  

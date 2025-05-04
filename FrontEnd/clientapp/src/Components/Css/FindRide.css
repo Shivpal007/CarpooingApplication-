@@ -1,0 +1,148 @@
+
+/* Book a Ride Section */
+.book-ride-container {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 30px;
+  background: #A1E3F9;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.book-ride-container h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 2rem;
+  color: #3468C0;
+  margin-bottom: 15px;
+
+}
+
+.book-ride-form {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.form-group {
+  flex: 1 1 calc(50% - 10px);
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  font-weight: bold;
+  margin-bottom: 10px;
+  font-size: 1.1rem;
+  color: #333;
+}
+
+select, input {
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 1rem;
+  color: #333;
+  background-color: #D1F8EF;
+  transition: border-color 0.3s, box-shadow 0.3s;
+}
+
+select:focus, input:focus {
+  border-color: #3468C0;
+  box-shadow: 0 0 5px rgb(52, 104, 192, 0.7);
+  outline: none;
+}
+
+button.submit-btn {
+  width: 100%;
+  padding: 12px;
+  background: linear-gradient(90deg, #578FCA, #3674B5);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 1rem;
+  margin-top: 20px;
+  transition: transform 0.2s;
+}
+
+button.submit-btn:hover {
+  background: linear-gradient(90deg, #3674B5, #578FCA);
+  transform: scale(1.05);
+}
+
+/* Available Rides Section */
+.available-rides {
+  max-width: 1200px;
+  margin: 40px auto;
+  padding: 20px;
+  background: #A1E3F9;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.available-rides h2 {
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 2rem;
+  color: #2973B2;
+}
+
+.custom-card {
+  background-color: #f0f2fd;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.custom-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+}
+
+.card-body {
+  padding: 20px;
+}
+
+.card-body h4 {
+  color: #2973B2;
+  margin-bottom: 15px;
+  font-size: 1.5rem;
+}
+
+.table-borderless td {
+  padding: 8px 0;
+  font-size: 1rem;
+  color: #555;
+}
+
+button.btn-primary {
+  width: 100%;
+  padding: 10px;
+  background: linear-gradient(90deg, #578FCA, #3674B5);
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 1rem;
+  transition:  transform 0.2s;
+}
+
+button.btn-primary:hover {
+  background: linear-gradient(90deg, #3674B5, #578FCA);
+  transform: scale(1.05);
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+  .form-group {
+    flex: 1 1 100%;
+  }
+
+  .custom-card {
+    margin: 0 auto;
+  }
+}
